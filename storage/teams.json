@@ -1,0 +1,22 @@
+{
+    "teamid1": {
+        "id": "teamid1",
+        "name": "BEAC",
+        "city": "Budapest"
+    },
+    "teamid2": {
+        "id": "teamid2",
+        "name": "Si\u00f3fok M-BSC",
+        "city": "Si\u00f3fok"
+    },
+    "teamid3": {
+        "id": "teamid3",
+        "name": "F\u00f6nix MFC",
+        "city": "Budapest"
+    },
+    "teamid4": {
+        "id": "teamid4",
+        "name": "Ferencv\u00e1ros M-TC",
+        "city": "Budapest"
+    }
+}

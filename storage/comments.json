@@ -1,0 +1,28 @@
+{
+    "commentid1": {
+        "author": "userid1",
+        "text": "Hajr\u00e1 fi\u00fak!",
+        "teamid": "teamid1",
+        "date": "2021-11-09"
+    },
+    "commentid2": {
+        "author": "userid2",
+        "text": "J\u00f3 volt a legut\u00f3bbi meccs!",
+        "teamid": "teamid1",
+        "date": "2021-11-09"
+    },
+    "61ddd2b30933e": {
+        "author": "gszemesi",
+        "text": "Csak igy tov\u00e1bb!!",
+        "teamid": "teamid1",
+        "id": "61ddd2b30933e",
+        "date": "2021-11-09"
+    },
+    "61ddf2663a613": {
+        "author": "admin",
+        "text": "Legjobb club! :)",
+        "teamid": "teamid3",
+        "date": "2022-01-11",
+        "id": "61ddf2663a613"
+    }
+}

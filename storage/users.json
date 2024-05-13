@@ -1,0 +1,20 @@
+{
+    "61dc3d6735253": {
+        "username": "admin",
+        "password": "$2y$10$F07YGtC1rZrLagjAtk\/Fi.GTum9cGE7MN.H3ZfTBCVTbZyiKQWSmS",
+        "email": "admin@elstadion.hu",
+        "roles": [
+            "admin"
+        ],
+        "id": "61dc3d6735253"
+    },
+    "61ddd27cd4bcf": {
+        "username": "gszemesi",
+        "password": "$2y$10$1l3pdRDF9OcIPNtnDTpn3.9x3aZsIKZVFd9nEZTvsSSj7raGJmnUq",
+        "email": "gszemesi@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "61ddd27cd4bcf"
+    }
+}
